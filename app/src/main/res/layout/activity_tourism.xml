@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_bg"
+    tools:context=".TourismActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/my_toolbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+android:layout_marginBottom="10dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:id="@+id/scrollview"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/scrollview"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Charminar:-"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:layout_gravity="center"
+                android:src="@drawable/charminar_tourism"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:text="@string/about_charminar"
+                android:textSize="20sp" />
+
+            <!-- Makka Masjid -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                  android:text="Makkah Masjid:-"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:layout_gravity="center"
+                android:src="@drawable/makkah_masjid"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:text="@string/about_makka_masjid"
+                android:textSize="20sp" />
+
+            <!-- Qutub Shahi Tombs -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                  android:text="Qutub Shahi Tombs:-"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:layout_gravity="center"
+                android:src="@drawable/qutub_shahi_tombs"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:text="@string/about_qutub_shahi_tombs"
+                android:textSize="20sp" />
+
+            <!-- Hussain Sagar -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                  android:text="Hussain Sagar:-"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:layout_gravity="center"
+                android:src="@drawable/husain_sagar"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:text="@string/about_hussain_sagar"
+                android:textSize="20sp" />
+
+            <!-- NTR Garden -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                  android:text="NTR Garden:-"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ntr_garden"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+android:layout_marginBottom="10dp"
+                android:text="@string/about_ntr_garden"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

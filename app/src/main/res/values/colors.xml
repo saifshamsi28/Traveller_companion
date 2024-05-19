@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#C4FFFFFF</color>
+    <color name="blue">#3366CC</color>
+    <color name="purple">#9933FF</color>
+    <color name="yellow">#FFC107</color>
+    <color name="GreenishBlue">#009999</color>
+    <color name="Olive">#808000</color>
+    <color name="Teal">#008080</color>
+    <color name="Teal_low">#9C008080</color>
+    <color name="search_bar">#39008080</color>
+    <color name="tourism_header">#9ECA3126</color>
+    <color name="find_button">#7E008080</color>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TRAVELLER</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="seperator">Related Buses</string>
+    <string name="about_section">Welcome to TRAVELLER, your go-to solution for navigating Hyderabad\'s TSRTC bus network with ease. Our mission is simple: to simplify your commute by providing comprehensive BUS information and route information\n\t\t\t\tDeveloped and Designed by the MANUU CS GROUP\n Group Members:-
+    </string>
+    <string name="about_saif">hey this is saif currently pursuing Btech from Maulana Azad national Urdu University(MANUU) </string>
+    <string name="about_charminar">The Charminar (lit. \'four minarets\') is a monument located in Hyderabad, Telangana, India. Constructed in 1591, the landmark is a symbol of Hyderabad and officially incorporated in the emblem of Telangana.[3] The Charminar\'s long history includes the existence of a mosque on its top floor for more than 425 years. While both historically and religiously significant, it is also known for its popular and busy local markets surrounding the structure, and has become one of the most frequented tourist attractions in Hyderabad. Charminar is also a site of numerous festival celebrations, such as Eid-ul-adha and Eid al-Fitr,[4] as it is adjacent to the city\'s main mosque, the Makkah Masjid.
+    </string>
+    <string name="about_makka_masjid">Makkah Masjid or Mecca Masjid, is a congregational mosque in Hyderabad, India. It is the largest mosque in the city,[2] and one of the largest mosques in the country, with a capacity of 10,000 people.[3] The mosque was built during the 17th century, and is a state-protected monument. It serves as the primary mosque for the Old City of Hyderabad,[4] and is located close to the historic landmarks of Charminar, Chowmahalla Palace and Laad Bazaar.
+Muhammad Qutb Shah, the sixth ruler of the Qutb Shahi dynasty, commissioned bricks to be made from the soil brought from Mecca, the holiest site of Islam, and used them in the construction of the central arch of the mosque, thus giving the mosque its name.</string>
+    <string name="about_qutub_shahi_tombs">The Qutub Shahi Tombs are located in the Ibrahim Bagh (garden precinct), close to the famous Golconda Fort in Hyderabad, India. They contain the tombs and mosques built by the various kings of the Qutub Shahi dynasty.[3] The galleries of the smaller tombs are of a single storey while the larger ones are two storied. In the centre of each tomb is a sarcophagus which overlies the actual burial vault in a crypt below. The domes were originally overlaid with blue and green tiles, of which only a few pieces now remain.[4]
+The complex was put by UNESCO on its "tentative list" to become a World Heritage Site in 2014, with others in the region, under the name Monuments and Forts of the Deccan Sultanate (despite there being a number of different sultanates).
+    </string>
+    <string name="about_hussain_sagar">
+        Hussain Sagar (alternatively referred to as Tank Bund;[1] Telugu pronunciation: [ɦusen sɑːgər]) is a heart-shaped lake in Hyderabad, Telangana, built by Ibrahim Quli Qutb Shah in 1563. It is spread across an area of 5.7 square kilometres (2.2 sq mi) and is fed by the River Musi. A large monolithic statue of the Gautama Buddha, erected in 1992, stands on Gibraltar Rock in the middle of the lake. It also separates the city centre of Hyderabad from the neighbourhood of Secunderabad. The maximum depth of the lake is 32 feet (9.8 m).
+    </string>
+    <string name="about_ntr_garden">
+        NTR Gardens is a small public, urban park of 36 acres (15 ha) adjacent to Hussain Sagar lake in Hyderabad, India. It is named after the former Chief minister of Andhra Pradesh, N. T. Rama Rao. Constructed in several phases since 1999, the area that is predominantly a park is geographically located in the centre of the city, and is close to other tourist attractions such as Birla Mandir, Necklace Road and Lumbini Park. It is maintained by the Buddha Purnima Project Authority that functions under the directives of the Government of Telangana.
+    </string>
+
+</resources>

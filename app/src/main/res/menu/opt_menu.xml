@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+            <item
+                android:id="@+id/about"
+                android:title="About Us"
+                app:showAsAction="always"
+                android:icon="@drawable/about_icon"
+                />
+            <item
+                android:id="@+id/tourism"
+                android:title="Tourism"
+                app:showAsAction="never"
+                android:icon="@drawable/tourism_icon"/>
+            <item
+                android:id="@+id/near_by_place"
+                android:title="Near Places"
+                app:showAsAction="never"
+                android:icon="@drawable/near_by_places"/>
+            <item
+                android:id="@+id/share"
+                android:title="Share"
+                app:showAsAction="never"
+                android:icon="@drawable/share_icon"/>
+            <item
+                android:id="@+id/exit"
+                android:title="Exit"
+                app:showAsAction="never"
+                android:icon="@drawable/exit_button"/>
+
+
+</menu>
